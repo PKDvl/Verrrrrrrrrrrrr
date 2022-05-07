@@ -1,0 +1,21 @@
+{
+    "env": {
+        "TOKEN": "OTYzNzIyMDQ5MTk5Njg1NjMy.GxZl7n.bsI7ohAQLui5ibkB_DtocZIqM2bsRLJ7KJjCJU",
+        "PREFIX": "oru",
+        "MongoDB_TOKEN": ""
+    },
+    "botlogs": {
+        "errorLogsChannel": "972303106769563658"
+    },
+    "bot_config": {
+        "bot_name": "Milanio",
+        "client_Id": "825358991059058708",
+        "invite_link": "https://discord.com/api/oauth2/authorize?client_id=825358991059058708&permissions=8&scope=bot%20applications.commands",
+        "no_slash_invite_link": "https://discord.com/api/oauth2/authorize?client_id=825358991059058708&permissions=8&scope=bot"
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "ownerID": ["850303341435027466", "839631567022325771", "592742911263899649", "820471122347688007"],
+    "Enable_MongoDB": false
+}
